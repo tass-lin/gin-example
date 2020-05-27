@@ -1,0 +1,5 @@
+HOST=0.0.0.0
+PORT=9080
+GIN_MODE=release
+DB_DSN=
+MYSQL_DSN=
